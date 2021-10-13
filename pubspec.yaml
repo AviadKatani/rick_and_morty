@@ -1,0 +1,43 @@
+name: rick_and_morty
+description: A new Flutter project.
+
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.12.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  flutter_bloc: ^7.3.0
+  cached_network_image: ^3.1.0
+  dartz: ^0.10.0
+  bloc: ^7.2.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  lints: ^1.0.1
+  build_runner: ^2.1.4
+
+flutter:
+
+  uses-material-design: true
+
+  fonts:
+    - family: Gilroy
+      fonts:
+        - asset: assets/fonts/Gilroy-ExtraBold.otf
+
+    - family: Poppins
+      fonts:
+        - asset: assets/fonts/Poppins-Regular.ttf
+        - asset: assets/fonts/Poppins-SemiBold.ttf
+
+    - family: Product-Sans
+      fonts:
+        - asset: assets/fonts/Product_Sans_Regular.ttf
+        - asset: assets/fonts/Product_Sans_Bold.ttf
