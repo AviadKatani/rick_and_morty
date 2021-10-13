@@ -1,7 +1,7 @@
 # rick_and_morty
-![Home Page](screnshots/1.png?raw=true "Home Page")
-![Detailed Page](screnshots/2.png?raw=true "Detailed Page")
-![Detailed Page](screnshots/3.png?raw=true "Detailed Page")
+![Home Page](https://github.com/AviadKatani/rick_and_morty/blob/main/screenshots/1.png "Home Page")
+![Detailed Page](https://github.com/AviadKatani/rick_and_morty/blob/main/screenshots/2.png "Detailed Page")
+![Detailed Page](https://github.com/AviadKatani/rick_and_morty/blob/main/screenshots/3.png "Detailed Page")
 
 
 
