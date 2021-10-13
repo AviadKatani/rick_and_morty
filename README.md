@@ -1,7 +1,7 @@
 # rick_and_morty
-![Home Page](/screnshots/1.png?raw=true "Home Page")
-![Detailed Page](/screnshots/2.png?raw=true "Detailed Page")
-![Detailed Page](/screnshots/3.png?raw=true "Detailed Page")
+![Home Page](screnshots/1.png?raw=true "Home Page")
+![Detailed Page](screnshots/2.png?raw=true "Detailed Page")
+![Detailed Page](screnshots/3.png?raw=true "Detailed Page")
 
 
 
