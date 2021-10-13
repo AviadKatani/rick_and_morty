@@ -1,4 +1,17 @@
 # rick_and_morty
+<div align="center">
+    <img src="/screenshots/1.png" width="400px"</img> 
+</div>
+<div align="center">
+    <img src="/screenshots/2.png" width="400px"</img> 
+</div>
+<div align="center">
+    <img src="/screenshots/3.png" width="400px"</img> 
+</div>
+
+
+
+
 
 A new Flutter project.
 
